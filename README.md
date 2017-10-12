@@ -1,0 +1,2 @@
+# blockcypher-api
+i have created hd wallet and drive many btc address under that wallet. but money which is coming in these btc address. not showing under that wallet when i try to see balance of that wallet. and money which is transfer to other btc address which is also not under that hd wallet. and when i try to send money from my hd wallet to other btc adderss then tell problem of balance. so please help me.
